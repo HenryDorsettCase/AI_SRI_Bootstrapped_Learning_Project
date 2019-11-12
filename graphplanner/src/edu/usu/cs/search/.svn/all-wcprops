@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search
+END
+PreferredOperatorDeferredEvaluationConditionalSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/PreferredOperatorDeferredEvaluationConditionalSearch.java
+END
+SearchStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/SearchStatistics.java
+END
+FaultObservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/FaultObservation.java
+END
+AbstractSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/AbstractSearch.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/Search.java
+END
+IncompleteBDDConditionalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/IncompleteBDDConditionalNode.java
+END
+FaultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/search/FaultSet.java
+END
+ConditionalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/ConditionalAction.java
+END
+SearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/SearchTest.java
+END
+ClassicalSolutionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/search/ClassicalSolutionEvaluator.java
+END
+IncompletePINode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bl/!svn/ver/8754/graphplanner/branches/chrisw/src/edu/usu/cs/search/IncompletePINode.java
+END
+SolutionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/search/SolutionEvaluator.java
+END
+StateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/search/StateNode.java
+END
+AbstractStateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bl/!svn/ver/8754/graphplanner/branches/chrisw/src/edu/usu/cs/search/AbstractStateNode.java
+END
+FaultStateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bl/!svn/ver/9256/graphplanner/branches/chrisw/src/edu/usu/cs/search/FaultStateNode.java
+END

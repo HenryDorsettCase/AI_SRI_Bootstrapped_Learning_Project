@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/antlr-2.7.7.jar
+END
+antlr-runtime-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/antlr-runtime-3.1.1.jar
+END
+stringtemplate-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/stringtemplate-3.2.jar
+END
+antlr-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/lib/antlr-3.1.1.jar
+END
+jdd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/lib/jdd.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/junit-4.4.jar
+END
+jul-to-slf4j-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/jul-to-slf4j-1.5.3.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/log4j-1.2.14.jar
+END
+slf4j-api-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/slf4j-api-1.5.3.jar
+END
+slf4j-log4j12-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bl/!svn/ver/8912/graphplanner/branches/chrisw/lib/slf4j-log4j12-1.5.3.jar
+END

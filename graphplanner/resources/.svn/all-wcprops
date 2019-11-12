@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bl/!svn/ver/8693/graphplanner/branches/chrisw/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bl/!svn/ver/8693/graphplanner/branches/chrisw/resources/log4j.properties
+END
+log4j-fileappender.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/resources/log4j-fileappender.properties
+END

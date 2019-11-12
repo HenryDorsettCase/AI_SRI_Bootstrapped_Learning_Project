@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bl/!svn/ver/9290/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph
+END
+ActionSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/ActionSpike.java
+END
+AbstractPlanningGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/AbstractPlanningGraph.java
+END
+AbstractActionSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/AbstractActionSpike.java
+END
+ActionLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/ActionLevelInfo.java
+END
+AbstractActionLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/AbstractActionLevelInfo.java
+END
+FactSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/FactSpike.java
+END
+FactHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/FactHeader.java
+END
+AbstractFactSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/AbstractFactSpike.java
+END
+FactLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/FactLevelInfo.java
+END
+AbstractFactLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/AbstractFactLevelInfo.java
+END
+ActionHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/ActionHeader.java
+END

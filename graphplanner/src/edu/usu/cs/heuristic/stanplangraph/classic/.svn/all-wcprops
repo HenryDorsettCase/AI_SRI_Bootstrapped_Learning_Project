@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bl/!svn/ver/9273/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic
+END
+ClassicalRelaxedPlanningGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/bl/!svn/ver/8788/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic/ClassicalRelaxedPlanningGraph.java
+END
+ClassicalFactSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic/ClassicalFactSpike.java
+END
+StanHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bl/!svn/ver/9273/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic/StanHeuristic.java
+END
+ClassicalFactLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic/ClassicalFactLevelInfo.java
+END
+ClassicalActionSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/classic/ClassicalActionSpike.java
+END

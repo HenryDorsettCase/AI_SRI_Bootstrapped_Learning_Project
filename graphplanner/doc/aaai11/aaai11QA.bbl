@@ -1,0 +1,96 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Bertoli, Botea, and Fratini}{2009}]{ickeps09}
+Bertoli, P.; Botea, A.; and Fratini, S., eds.
+\newblock 2009.
+\newblock {\em ICKEPS}.
+
+\bibitem[\protect\citeauthoryear{Bonet and Geffner}{2000}]{bonet00planning}
+Bonet, B., and Geffner, H.
+\newblock 2000.
+\newblock Planning with incomplete information as heuristic search in belief
+  space.
+\newblock In {\em Proceedings of AIPS'00}.
+
+\bibitem[\protect\citeauthoryear{Boutilier}{2002}]{DBLP:conf/aaai/Boutilier02}
+Boutilier, C.
+\newblock 2002.
+\newblock A pomdp formulation of preference elicitation problems.
+\newblock In {\em AAAI/IAAI},  239--246.
+
+\bibitem[\protect\citeauthoryear{Bryce and Weber}{2011}]{bryce-icaps11}
+Bryce, D., and Weber, C.
+\newblock 2011.
+\newblock Planning and acting in incomplete domains.
+\newblock In {\em Proceedings of ICAPS'11}.
+
+\bibitem[\protect\citeauthoryear{Chang and
+  Amir}{2006}]{DBLP:conf/aips/ChangA06}
+Chang, A., and Amir, E.
+\newblock 2006.
+\newblock Goal achievement in partially known, partially observable domains.
+\newblock In {\em ICAPS'06}.
+
+\bibitem[\protect\citeauthoryear{de Kleer, Mackworth, and
+  Reiter}{1992}]{deKleer:1992:CDS:140524.140531}
+de~Kleer, J.; Mackworth, A.~K.; and Reiter, R.
+\newblock 1992.
+\newblock {\em Characterizing diagnoses and systems}.
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.
+\newblock  54--65.
+
+\bibitem[\protect\citeauthoryear{Garland and Lesh}{2002}]{Garland02}
+Garland, A., and Lesh, N.
+\newblock 2002.
+\newblock Plan evaluation with incomplete action descriptions.
+\newblock In {\em Proceedings of AAAI'02}.
+
+\bibitem[\protect\citeauthoryear{Gervasio, Yeh, and
+  Myers}{2011}]{AICPub1812:2011}
+Gervasio, M.; Yeh, E.; and Myers, K.
+\newblock 2011.
+\newblock Learning to ask the right questions to help a learner learn.
+\newblock In {\em Proceedings of the IUI'11}.
+
+\bibitem[\protect\citeauthoryear{Helmert}{2006}]{DBLP:journals/jair/Helmert06}
+Helmert, M.
+\newblock 2006.
+\newblock The fast downward planning system.
+\newblock {\em JAIR} 26:191--246.
+
+\bibitem[\protect\citeauthoryear{Hoffmann and
+  Nebel}{2001}]{hoffmann:nebel:jair-01}
+Hoffmann, J., and Nebel, B.
+\newblock 2001.
+\newblock The {FF} planning system: Fast plan generation through heuristic
+  search.
+\newblock {\em JAIR} 14:253--302.
+
+\bibitem[\protect\citeauthoryear{Kambhampati}{2007}]{modellite}
+Kambhampati, S.
+\newblock 2007.
+\newblock Model-lite planning for the web age masses.
+\newblock In {\em Proceedings of AAAI'07}.
+
+\bibitem[\protect\citeauthoryear{Mailler \bgroup et al.\egroup }{2009}]{mable}
+Mailler, R.; Bryce, D.; Shen, J.; and Orielly, C.
+\newblock 2009.
+\newblock Mable: A framework for natural instruction.
+\newblock In {\em { AAMAS'09}}.
+
+\bibitem[\protect\citeauthoryear{Oates and
+  Cohen}{1996}]{DBLP:conf/aaai/OatesC96}
+Oates, T., and Cohen, P.~R.
+\newblock 1996.
+\newblock Searching for planning operators with context-dependent and
+  probabilistic effects.
+\newblock In {\em AAAI/IAAI, Vol. 1},  863--868.
+
+\bibitem[\protect\citeauthoryear{Wu, Yang, and Jiang}{2007}]{arms}
+Wu, K.; Yang, Q.; and Jiang, Y.
+\newblock 2007.
+\newblock Arms: an automatic knowledge engineering tool for learning action
+  models for ai planning.
+\newblock {\em K. Eng. Rev.} 22(2):135--152.
+
+\end{thebibliography}

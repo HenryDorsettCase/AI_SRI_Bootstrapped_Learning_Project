@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects
+END
+AssignEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/AssignEffect.java
+END
+BinaryArithmeticExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/BinaryArithmeticExpr.java
+END
+ComparisonGoalDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/ComparisonGoalDesc.java
+END
+WhenEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/WhenEffect.java
+END
+ConjunctionGoalDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/ConjunctionGoalDesc.java
+END
+PredicateEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/PredicateEffect.java
+END
+NotGoalDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/NotGoalDesc.java
+END
+ConjunctionEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/ConjunctionEffect.java
+END
+UnaryMinusExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bl/!svn/ver/8876/graphplanner/branches/chrisw/src/edu/usu/cs/pddl/goalseffects/UnaryMinusExpr.java
+END

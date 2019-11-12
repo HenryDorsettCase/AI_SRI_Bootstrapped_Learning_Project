@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 29
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.ps
+
+END

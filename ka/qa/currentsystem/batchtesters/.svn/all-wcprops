@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters
+END
+BatchTester_TestRawPerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_TestRawPerformance.java
+END
+BatchTester_SimulationPL_LoopFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_SimulationPL_LoopFinder.java
+END
+BatchTester_SimulationPLQAF.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_SimulationPLQAF.java
+END
+BatchTester_Test_KAQA_DomainExpertAndAgent_Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_Test_KAQA_DomainExpertAndAgent_Setup.java
+END
+BatchTester_SimulationPL.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_SimulationPL.java
+END
+BatchTester_SimulationPLQA.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/batchtesters/BatchTester_SimulationPLQA.java
+END

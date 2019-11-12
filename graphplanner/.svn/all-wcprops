@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bl/!svn/ver/9724/graphplanner/branches/chrisw
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/logging.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/build.xml
+END
+ANTLR3_LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/ANTLR3_LICENSE
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bl/!svn/ver/8934/graphplanner/branches/chrisw/manifest.mf
+END
+runANTLR.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/runANTLR.bat
+END
+runBlocksTest.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/runBlocksTest.bat
+END
+runJugsTest.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/runJugsTest.bat
+END
+runPlanner.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/runPlanner.bat
+END
+generateANTLR.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bl/!svn/ver/7235/graphplanner/branches/chrisw/generateANTLR.bat
+END

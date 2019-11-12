@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator
+END
+SimulationPL_LoopFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/SimulationPL_LoopFinder.java
+END
+Test_KAQA_DomainExpertAndAgent_Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/bl/!svn/ver/9563/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/Test_KAQA_DomainExpertAndAgent_Setup.java
+END
+Test_PlannersRawPerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/Test_PlannersRawPerformance.java
+END
+SimulationPL.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/SimulationPL.java
+END
+SimulationPLQA.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/SimulationPLQA.java
+END
+SimulationPLQAF.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bl/!svn/ver/9723/graphplanner/branches/chrisw/src/edu/usu/cs/ka/qa/currentsystem/simulator/SimulationPLQAF.java
+END

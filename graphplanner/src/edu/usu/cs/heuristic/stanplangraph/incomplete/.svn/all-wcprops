@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bl/!svn/ver/9290/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete
+END
+FaultyFactLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyFactLevelInfo.java
+END
+BigNumericMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/BigNumericMetric.java
+END
+FaultyRelaxedPlanningGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/bl/!svn/ver/9290/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyRelaxedPlanningGraph.java
+END
+PIMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/PIMetric.java
+END
+FaultyActionSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyActionSpike.java
+END
+FaultyActionLevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyActionLevelInfo.java
+END
+FaultyHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/bl/!svn/ver/9273/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyHeuristic.java
+END
+FaultyFactSpike.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/FaultyFactSpike.java
+END
+BDDRiskSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bl/!svn/ver/8568/graphplanner/branches/chrisw/src/edu/usu/cs/heuristic/stanplangraph/incomplete/BDDRiskSet.java
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 137
+DefaultICAPS10.aux
+DefaultICAPS10.out
+DefaultICAPS10.pdf
+DefaultICAPS10.synctex.gz
+DefaultICAPS10.dvi
+*.ps
+*.txt
+*.aux
+*.bbl
+*.blg
+*.dvi
+
+END
